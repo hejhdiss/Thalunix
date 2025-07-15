@@ -192,6 +192,7 @@ To start contributing:
 3. Propose your own ideas or improvements
 4. Open a pull request to share your work
 
+There is no "core team" yet. Everyone contributing now becomes part of the foundational group that builds Thalunix together.
 ---
 
 ## Attribution and Licensing
